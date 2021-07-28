@@ -24,7 +24,7 @@ Hail Mary….<i> Behold, the handmaid of the Lord.  Be it done to me according t
 <br><br>2.  Mother Mary, bless my <b> mind </b>. Strip me of the stinking thinking of delusions, doubts, depression, and despair.  Armor me with the Helmet of Hope, gratitude, joy, wisdom, and knowledge and with the Sword of the Spirit of preaching and teaching of the Word.  Hail Mary….
 <br><br>3.  <i> And the Word became flesh and dwelt among us.  </i> Mother Mary, bless my <b> body </b>.  Strip me of the fallen flesh of gluttony, laziness, and lust.  Armor me with the Belt of Truth, chastity, charity, and courage and with the Shoes of Zeal ready to do your works of justice and mercy.  
 Hail Mary….
-<i> for us, O Holy Mother of God, that we may be worthy of the promises of Christ.  Amen.<i>
+<i> for us, O Holy Mother of God, that we may be worthy of the promises of Christ.  Amen.</i>
 <br><br>
 
 
