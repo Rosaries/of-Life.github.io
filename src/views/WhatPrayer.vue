@@ -83,7 +83,7 @@ We pray for a New Pentecost with signs, wonders, and powerful testimonies that c
 
 Beautiful - Good - Truth - Life - Heaven<br> <img src =Sword.jpg width="300" ><br>
  
-Ugly - Evil	Lies - Death	Hell<br><br>
+Ugly - Evil	Lies - Death - Hell<br><br>
 
 <i> “Overcome evil with good”</i> – Rm. 12:21
 <br><br>
