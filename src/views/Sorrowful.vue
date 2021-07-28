@@ -207,7 +207,7 @@
         THE CRUCIFIXION</b
       ></font
     >
-
+ 
     <v-timeline dense>
       <v-timeline-item color="black lighten-2" small>
         <template v-slot:opposite> </template>
