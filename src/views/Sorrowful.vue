@@ -9,8 +9,9 @@
         The Death of Jesus</b
       ><br /><br />
 
-      THE CULTURE OF LIFE - We pray that all SOCIETIES grow in faith, humility and obedience to God’s will.   
-<i>“Thy will be done.”  </i> 
+      THE CULTURE OF LIFE - We pray that all SOCIETIES grow in faith, humility
+      and obedience to God’s will.
+      <i>“Thy will be done.” </i>
 
       <br /><br />
       <font size="-1"
@@ -18,7 +19,9 @@
         Mary’s]
       </font>
       <br /><br />
-      THE CULTURE OF DEATH - We pray that all SOCIETIES be forgiven, healed, and delivered from all the pride, rage, idolatry, lies, and works of the devil.  
+      THE CULTURE OF DEATH - We pray that all SOCIETIES be forgiven, healed, and
+      delivered from all the pride, rage, idolatry, lies, and works of the
+      devil.
       <br /><br />
 
       <font size="-1" color="#c41a1a"
@@ -52,9 +55,9 @@
             know, and do the will of God.
           </v-card-text>
 
-            <font color="#c41a1a">
-              We repent for the <br />culture of Denial
-            </font>
+          <font color="#c41a1a">
+            We repent for the <br />culture of Denial
+          </font>
 
           <v-card-text>
             <i
@@ -84,9 +87,8 @@
       <v-timeline-item color="black lighten-2" small>
         <template v-slot:opposite> </template>
         <v-card max-width="600" class="py-0">
-          
-            We pray for True Science:
-          
+          We pray for True Science:
+
           <v-card-text>
             <i>
               Jesus, the true Prophet, is silent as he is stripped and scourged.
@@ -98,9 +100,7 @@
             our wounds united to your wounds become instruments of your healing.
           </v-card-text>
 
-            <font color="#c41a1a"
-              >We repent for the culture of Rationalism:</font
-            >
+          <font color="#c41a1a">We repent for the culture of Rationalism:</font>
 
           <v-card-text>
             <i>
@@ -173,6 +173,7 @@
         <v-card max-width="600" class="py-0">
           <v-card-text>
             <b>We pray for True Religion:</b> <br />
+
             <i>
               Jesus, the true Priest, carries the cross, his own altar, to his
               own sacrifice
@@ -186,14 +187,14 @@
           <v-card-text>
             <font color="#c41a1a">We repent for the culture of Paganism:</font
             ><br /><i>
-              Judas acts as a false priest who makes his covenant with the chief
-              priests. Jesus falls three times. “The time for the power of
-              darkness has come”
+              Jesus, the King of kings, wears a crown of thorns. “My kingdom
+              does not belong to this world. I came into this world to testify
+              to the truth”
             </i>
-            (Lk. 22:1-5,53). Lord of faith, we repent for not sharing the
-            gospel. We repent for believing that it is easy to get into heaven.
-            Forgive us for being indifferent about people’s beliefs and
-            behavior. Forgive us for dabbling in magic and the occult.
+            (Jn. 18:33-19:11). Lord of faith, crown us with the crown of truth.
+            May we fully form our conscience and obey your will according to
+            divine law, natural law, and just human laws. May all education form
+            all people in the laws of your beauty, goodness, and truth.
           </v-card-text>
         </v-card>
       </v-timeline-item>

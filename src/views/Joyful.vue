@@ -70,7 +70,7 @@
               Lord of love, we repent for not listening and not <br />
               obeying your Word. Forgive us for our gluttony, <br />
               laziness, and lust. We repent for using other people <br />
-              pleasure, for viewing impure images, fornicating, <br />
+              for pleasure, for viewing impure images, fornicating, <br />
               and committing sexual sins. May we fully reject all <br />
               sexual activity outside of holy marriage.
             </v-list-item-subtitle>
@@ -273,10 +273,10 @@
               </i>
 
               (Lk. 2:41-52). <br />Lord of love, we pray for the sanctity of
-              natural marriage. <br />May all families become domestic churches
-              of God.<br />
-              May they fully embrace the life of virtue and grow in
-              <br />discipline, mercy, faithfulness, and pure, <br />authentic
+              natural <br>marriage. May all families become domestic <br>churches
+              of God.
+              May they fully embrace the life of <br>virtue and grow in
+              discipline, mercy, faithfulness, and <br />pure, authentic
               love.
             </v-list-item-subtitle>
           </v-list-item-content>
@@ -292,7 +292,7 @@
           <v-list-item-content>
             <v-list-item-title>
               <font color="#c41a1a"
-                >We repent for Anti-Elderly and Anti-Children:
+                >We repent for Anti-Family:
               </font>
             </v-list-item-title>
             <v-list-item-subtitle>
